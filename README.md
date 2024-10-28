@@ -6,6 +6,7 @@ Join a dynamic world where over **8.2 billion** players shape their own unique e
 
 - [User Menu](user_menu.md)
 - [Change Menu](change_menu.md)
-
+- [DLC](DLC.md)
+- [Questlines](Questlines.md)
 ---
 **Note:** For more details, please check the respective menus above!
